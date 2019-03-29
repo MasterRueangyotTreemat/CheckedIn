@@ -2,6 +2,7 @@
 MERN Mysql + Express + React + Node.js
 
 การติดตั้ง
+- ติดตั้ง Node.js
 - ทำการ git clone ลงใน directory ไหนก็ได้
 
 การเปิดเว็บบน Localhost
